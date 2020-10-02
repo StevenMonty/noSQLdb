@@ -1,0 +1,10 @@
+﻿partition,itemID,date,comment,url
+experiment1,data1,8/25/20,Experiment went well,file1.txt
+experiment1,data2,8/25/20,Experiment went well,file2.txt
+experiment2,data3,9/3/20,"Experiment had complications, but was successful",file3.txt
+experiment2,data4,9/3/20,"Experiment had complications, but was successful",file4.txt
+experiment3,data5,9/10/20,"Issues with experiement, data may be flawed",file5.txt
+experiment4,data6,9/14/20,"Experiment had complications, but was successful",file6.txt
+experiment4,data7,9/14/20,"Experiment had complications, but was successful",file7.txt
+experiment5,data8,9/20/20,"Issues with experiement, data may be flawed",file8.txt
+experiment6,data9,9/25/20,"Experiment had complications, but was successful",file9.txt
